@@ -17,6 +17,10 @@ A modern and stylish e-commerce website dedicated to men's fashion. Discover the
 - CSS3
 - JavaScript
 
+## Live Demo
+
+Check out the live version: [https://iam269.github.io/Male-fashion/](https://iam269.github.io/Male-fashion/)
+
 ## Getting Started
 
 1. Clone the repository
