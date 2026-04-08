@@ -19,7 +19,7 @@ A modern and stylish e-commerce website dedicated to men's fashion. Discover the
 
 ## Live Demo
 
-Check out the live version: [https://iam269.github.io/Male-fashion/](https://iam269.github.io/Male-fashion/)
+Check out the live version: [https://itsiamdev.github.io/Male-fashion/](https://iam269.github.io/Male-fashion/)
 
 ## Getting Started
 
